@@ -1,4 +1,10 @@
-#Table of Contents:
+# Introduction to Julia
+
+Julia is a high-level, high-performance dynamic programming language for technical computing, with syntax that is familiar to users of other technical computing environments. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library.
+
+With this tutorial you can learn Julia basics and prepare to write your own code.
+
+##Table of Contents:
 1. Datatypes and Operators
   1. Comments
   2. Datatypes
@@ -34,7 +40,12 @@
   1. Opening files
   2. Writing to files
 
-# Note
+
+## Source code:
+- Download code from GitHub: [https://github.com/Ermlab/Introduction-to-Julia](https://github.com/Ermlab/Introduction-to-Julia)
+- Run project at Plon.io: [https://plon.io/explore/introduction-to-julia2/8upTe9VCz6AqJhwzV](https://plon.io/explore/introduction-to-julia2/8upTe9VCz6AqJhwzV)
+
+## Note
 This Julia tutorial was inspired by this websites:
 
 [https://learnxinyminutes.com/docs/julia/](https://learnxinyminutes.com/docs/julia/)
@@ -42,5 +53,3 @@ This Julia tutorial was inspired by this websites:
 [http://docs.julialang.org/en/release-0.4/manual/](http://docs.julialang.org/en/release-0.4/manual/)
 
 [https://en.wikibooks.org/wiki/Introducing_Julia](https://en.wikibooks.org/wiki/Introducing_Julia)
-
-
